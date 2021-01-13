@@ -96,7 +96,8 @@
 
 - [Codewars](https://codewars.com/kata/search/cpp?q=&&beta)
 
-  
+- [LeetCode](https://leetcode.com/)
+
 
 ### ✅ Полезные лекции и интересные статьи
 
